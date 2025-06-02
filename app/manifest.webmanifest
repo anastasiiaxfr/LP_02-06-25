@@ -1,0 +1,52 @@
+{
+  "name": "Kobodrop",
+  "short_name": "Kobodrop",
+  "start_url": "/",
+  "description": "Take Control of Your Finances Anytime, Anywhere with Kobodrop. Discover the Smart Way to Use Your Money!",
+  "display_override": ["window-control-overlay", "minimal-ui"],
+  "orientation": "portrait",
+  "generated": "true",
+  "theme_color": "#d5f1ff",
+  "background_color": "#d5f1ff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/fav/favicon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/seo/screen1.jpg",
+      "type": "image/jpg",
+      "sizes": "720x1280",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/seo/screen2.jpg",
+      "type": "image/jpg",
+      "sizes": "720x1280",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/seo/screen3.jpg",
+      "type": "image/jpg",
+      "sizes": "720x1280",
+      "form_factor": "wide"
+    }
+  ]
+}
