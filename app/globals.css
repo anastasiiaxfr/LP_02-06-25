@@ -182,7 +182,7 @@
   }
 
   .container {
-    @apply relative mx-auto px-8 max-w-[1200px];
+    @apply relative mx-auto px-8 max-w-6xl;
   }
 
   h1 {
