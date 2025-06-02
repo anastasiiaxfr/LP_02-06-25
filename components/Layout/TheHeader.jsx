@@ -13,7 +13,7 @@ function Header() {
         <Logo />
         <NavMenu />
         <div className="flex gap-2">
-          <Button asChild className="btn">
+          <Button asChild className="btn hidden sm:flex">
             <Link href="/">Install Kobodrop</Link>
           </Button>
           <ThemeToggle />
